@@ -1,5 +1,5 @@
 <p align="center"><b>LinuxTools</b></p>
-<p align="center"><b>Here i've given commands to install essential linux tools that can save your time and stress</b></p>
+<p align="center"><b>Here i've given commands to install essential linux tools that can save your time.</b></p>
 
 ##
 
