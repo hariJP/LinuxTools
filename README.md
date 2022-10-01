@@ -15,6 +15,8 @@
   and then
   ```alsamixer```
 
+- For Adjusting Date & Time
+  ```sudo date -s"01 OCT 2022 09:15:00 AM" ```
 ##
 
 ### GUI's
