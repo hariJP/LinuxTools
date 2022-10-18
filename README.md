@@ -38,7 +38,7 @@
   
   ### ADDITIONAL CUSTOMIZATIONS FOR SIMPLE AND CONVENIENT INTERFACING WITH YOUR LINUX
   
-  - For speaker audio issues
+  FOR SPEAKER ISSUES
   - 
     Open the terminal (keyboard shortcut Ctrl+Alt+T).
     Copy/paste "sudo gedit /usr/share/pulseaudio/alsa-mixer/paths/analog-output-speaker.conf" and press Enter.
