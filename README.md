@@ -38,7 +38,7 @@
   
   ### ADDITIONAL CUSTOMIZATIONS FOR SIMPLE AND CONVENIENT INTERFACING WITH YOUR LINUX
   
-  FOR SPEAKER ISSUES
+  ```FOR SPEAKER ISSUES```
   - 
     Open the terminal (keyboard shortcut Ctrl+Alt+T).
     Copy/paste "sudo gedit /usr/share/pulseaudio/alsa-mixer/paths/analog-output-speaker.conf" and press Enter.
@@ -83,10 +83,15 @@
     
     FOR CUSTOMIZATION
     
-    to install tweaks for customization we need to add a repository by ``sudo add-apt-repository universe```
-     then ```sudo apt install gnome-tweak-tool``` then search in applications search bar as "tweaks" to use tweaks.
+    to install tweaks for customization we need to add a repository by 
+    ```sudo add-apt-repository universe```
+     then 
+     ```sudo apt install gnome-tweak-tool``` 
+     then search in applications search bar as ```tweaks``` to use tweaks.
      
-    to install unity tweak tool "sudo apt install unity-tweak-tool" then search in applications search bar as "unitytweaks" to use unity-tweaks.
+    to install unity tweak tool 
+    ```sudo apt install unity-tweak-tool``` 
+    then search in applications search bar as ```unitytweaks``` to use unity-tweaks.
     
     - For apache2 server in linux 
     
