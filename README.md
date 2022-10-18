@@ -104,16 +104,6 @@
     
     ```sudo apt-get install -y mousepad```
     
-    -For screen recording feature
-    
-    ```sudo apt-get install simplescreenrecorder```
- 
-    -For browser(firefox)
-    
-    ```sudo apt-get install firefox-esr```
-    
-    -For 
-    
     
     
     
