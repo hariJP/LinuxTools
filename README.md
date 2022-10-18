@@ -109,6 +109,15 @@
     https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
     
     
+    ```To install visual studio code for 32-bit ubuntu(debian)```
+       -"wget https://drive.google.com/file/d/1UHQNNBq5jazdpHydTUMFUCTjfIbT65DF/view?usp=sharing"
+       
+     ```To install arduino IDE for 32-bit ubuntu(debian)```
+       -"wget https://drive.google.com/file/d/1xC1dLXHOV-f24OnDAnIty6SY23YwOOUp/view?usp=sharing"
+      
+    
+    
+    
     -For text editor
     
     ```sudo apt-get install -y mousepad```
