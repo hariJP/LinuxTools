@@ -87,13 +87,13 @@
     
     ```-FOR CUSTOMIZATION```
     
-    to install tweaks for customization we need to add a repository by 
+    -to install tweaks for customization we need to add a repository by 
     ```sudo add-apt-repository universe```
      then 
      ```sudo apt install gnome-tweak-tool``` 
      then search in applications search bar as ```tweaks``` to use tweaks.
      
-    to install unity tweak tool 
+    -to install unity tweak tool 
     ```sudo apt install unity-tweak-tool``` 
     then search in applications search bar as ```unitytweaks``` to use unity-tweaks.
     
