@@ -88,40 +88,50 @@
     ```-FOR CUSTOMIZATION```
     
     -to install tweaks for customization we need to add a repository by 
+    
     ```sudo add-apt-repository universe```
-     then 
+     then
+     
      ```sudo apt install gnome-tweak-tool``` 
+     
      then search in applications search bar as ```tweaks``` to use tweaks.
      
     -to install unity tweak tool 
     ```sudo apt install unity-tweak-tool``` 
+    
     then search in applications search bar as ```unitytweaks``` to use unity-tweaks.
     
-    - For apache2 server in linux 
+    For apache2 server in linux 
     
     
       ```sudo apt update```
+    
     then
+      
       ```sudo apt install apache2```
     
     For reference
     
-    https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
+    ```https://ubuntu.com/tutorials/install-and-configure-apache#1-overview```
     
     
-    ```To install visual studio code for 32-bit ubuntu(debian)```
-       -"wget https://drive.google.com/file/d/1UHQNNBq5jazdpHydTUMFUCTjfIbT65DF/view?usp=sharing"
+    To install visual studio code for 32-bit ubuntu(debian)
        
-     ```To install arduino IDE for 32-bit ubuntu(debian)```
-       -"wget https://drive.google.com/file/d/1xC1dLXHOV-f24OnDAnIty6SY23YwOOUp/view?usp=sharing"
+       -```"wget https://drive.google.com/file/d/1UHQNNBq5jazdpHydTUMFUCTjfIbT65DF/view?usp=sharing"```
+       
+     To install arduino IDE for 32-bit ubuntu(debian)
+       
+       -```"wget https://drive.google.com/file/d/1xC1dLXHOV-f24OnDAnIty6SY23YwOOUp/view?usp=sharing"```
       
-    
     
     
     -For text editor
     
     ```sudo apt-get install -y mousepad```
     
+    -For document viewing
+    
+     ```sudo apt-get install atril```
     
     
     
