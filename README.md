@@ -81,7 +81,7 @@
     Go back to the terminal, type sudo reboot and press Enter to reset your Toughbook.
     Once your Toughbook boots back up, check the audio. It should be working now.```
     
-    - For customization
+    FOR CUSTOMIZATION
     
     to install tweaks for customization we need to add a repository by "sudo add-apt-repository universe"
      then "sudo apt install gnome-tweak-tool" then search in applications search bar as "tweaks" to use tweaks.
