@@ -39,7 +39,6 @@
   ### ADDITIONAL CUSTOMIZATIONS FOR SIMPLE AND CONVENIENT INTERFACING WITH YOUR LINUX
   
   - For speaker audio issues
-  - ```
   - 
     Open the terminal (keyboard shortcut Ctrl+Alt+T).
     Copy/paste "sudo gedit /usr/share/pulseaudio/alsa-mixer/paths/analog-output-speaker.conf" and press Enter.
@@ -91,12 +90,12 @@
     
     - For apache2 server in linux 
     
-    "
+    
       ```sudo apt update```
     then
       ```sudo apt install apache2```
-    "
-    ```For reference```
+    
+    For reference
     
     https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
     
