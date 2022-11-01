@@ -133,6 +133,35 @@
     
      ```sudo apt-get install atril```
     
+    -For creating a bootable USB drive using linux terminal you have to insert your fresh USB pendrive then make sure it is formatted in a FAT32 format
+    then we have to backup the contents of the PC which you are going to install the new Operating Sytem(OS) make sure you are backed up all the contents 
+    and after inserted the pendrive in the USB port we have to find the disk address allotted the pendrive port to find that type ```sudo fdisk -l```
+    enter the linux password and the output will display the all storage devices associated with you device find out the pendrive address in my case
+    it is ```/dev/sda1```
+    
+    -After finding out the pendrive's address we have to find the path of the iso file and its name with correct representation as it is stored
+    in our computer in my case i've kept the .iso file in my Downloads folder like this ```/home/kali/Downloads/ubuntu_i386.iso``` 
+    
+    -Now open the terminal and type line in these format 
+    ```$ sudo dd if=/[ISOFILE-LOCATION] of=/dev/[PARTITION NAME] status=progress offlag=sync```
+    
+    i have replaced the .iso file location by my file location in ```if=/home/kali/Downloads/ubuntu_i386.iso```
+    and the iso file should be kept in the targetted disk that is my pendrive address that we found earlier ``` /dev/sda1```
+    
+    hence the line becomes ```$ sudo dd if=/home/kali/Downloads/ubuntu_i386.iso of=/dev/sda1 status=progress offlag=sync``` in my case.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
