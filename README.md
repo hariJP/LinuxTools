@@ -93,14 +93,15 @@
      then
      
      ```sudo apt install gnome-tweak-tool``` 
-     
+     /dev/sda1
      then search in applications search bar as ```tweaks``` to use tweaks.
      
     -to install unity tweak tool 
     ```sudo apt install unity-tweak-tool``` 
     
     then search in applications search bar as ```unitytweaks``` to use unity-tweaks.
-    
+
+##
     For apache2 server in linux 
     
     
@@ -114,25 +115,28 @@
     
     ```https://ubuntu.com/tutorials/install-and-configure-apache#1-overview```/dev/sda1
     
-    
+##    
     To install visual studio code for 32-bit ubuntu(debian)
        
        ```wget https://drive.google.com/file/d/1UHQNNBq5jazdpHydTUMFUCTjfIbT65DF/view?usp=sharing```
-       
+##       
      To install arduino IDE for 32-bit ubuntu(debian)
        
        ```wget https://drive.google.com/file/d/1xC1dLXHOV-f24OnDAnIty6SY23YwOOUp/view?usp=sharing```
       
     
-    
-    -For text editor
+##    
+    -For installing mousepad text editor
     
     ```sudo apt-get install -y mousepad```
-    
+##    
     -For document viewing
     
-     ```sudo apt-get install atril```
-    
+     ```sudo apt-get install atril```/dev/sda1
+     
+##
+
+######
     
     ### TO CREATE A BOOTABLE USB DRIVE USING LINUX TERMINAL
     
