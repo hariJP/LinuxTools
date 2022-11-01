@@ -134,7 +134,7 @@
      ```sudo apt-get install atril```
     
     
-    ###TO CREATE A BOOTABLE USB DRIVE USING LINUX TERMINAL
+    ### TO CREATE A BOOTABLE USB DRIVE USING LINUX TERMINAL
     
     -For creating a bootable USB drive using linux terminal you have to insert your fresh USB pendrive then make sure it is formatted in a FAT32 format
     then we have to backup the contents of the PC which you are going to install the new Operating Sytem(OS) make sure you are backed up all the contents 
