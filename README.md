@@ -1,5 +1,5 @@
 <p align="center"><b>LinuxTools</b></p>
-<p align="center"><b>Here i've given commands to install essential linux tools that can save your time.</b></p>
+<p align="center"><b>Here i've given commands to install essential linux tools that can save your time.</dev/sda1/b></p>
 
 ##
 
@@ -132,7 +132,7 @@
 ##    
     -For document viewing
     
-     ```sudo apt-get install atril```/dev/sda1
+     ```sudo apt-get install atril```
      
 ##
 
@@ -144,7 +144,7 @@
     then we have to backup the contents of the PC which you are going to install the new Operating Sytem(OS) make sure you are backed up all the contents 
     and after inserted the pendrive in the USB port we have to find the disk address allotted the pendrive port to find that type ```sudo fdisk -l```
     enter the linux password and the output will display the all storage devices associated with you device find out the pendrive address in my case
-    it is ```/dev/sda1```/dev/sda1
+    it is ```/dev/sda1```
     
     -After finding out the pendrive's address we have to find the path of the iso file and its name with correct representation as it is stored
     in our computer in my case i've kept the .iso file in my Downloads folder like this ```/home/kali/Downloads/ubuntu_i386.iso``` 
@@ -156,6 +156,9 @@
     and the iso file should be kept in the targetted disk that is my pendrive address that we found earlier ``` /dev/sda1```
     
     hence the line becomes ```$ sudo dd if=/home/kali/Downloads/ubuntu_i386.iso of=/dev/sda1 status=progress offlag=sync``` in my case.
+    
+    wait until the terminal completely writes the iso file in bootable pendrive the after comletion properly exit the terminal to avoid corruption
+    in the bootable pendrive.
     
     
     
