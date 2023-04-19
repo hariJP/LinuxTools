@@ -5,7 +5,12 @@
 
 ### CLI's
 
-
+- For Formatting a Pendrive(Fat32)
+  ```lsblk```
+  ```sudo umount /dev/sdb```
+   ```sudo mkfs.fat -F 32 /dev/sdb```
+   here ***/dev/sdb*** can be replaced by your respective storage device revealed by lsblk list
+   
 - For Adjusting Screen Brightness
   ```xrandr --output LVDS-1 --brightness 0.8```
    here ***LVDS-1*** can be replaced by your respective output device
